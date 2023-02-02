@@ -1,4 +1,10 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+Potr Pots page
+<br>
+<br>
+Technology stack:
+
+HTML<br>
+CSS/SCSS<br>
+
+Preview link: (https://msa1991.github.io/bakerlab-landing/)<br/>
+Layout link: (https://www.figma.com/file/dY3izAm0Vspsmra4lQWQIP/Bakerlab_FE-students?node-id=11342%3A1117&t=ThGwohmFS4jIGg1F-0)
