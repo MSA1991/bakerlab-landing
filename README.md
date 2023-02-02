@@ -1,4 +1,4 @@
-Potr Pots page
+Bakerlab page
 <br>
 <br>
 Technology stack:
